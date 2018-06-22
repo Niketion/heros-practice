@@ -1,0 +1,11 @@
+author: Niketion
+version: 1.0
+main: net.herospvp.plugins.practiceheros.PracticeHeros
+name: PracticeHeros
+depends: [Vault]
+commands:
+  practice:
+  setspawn:
+  spawn:
+  createkit:
+  editsetspawn:
